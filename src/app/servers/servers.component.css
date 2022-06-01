@@ -1,0 +1,12 @@
+.app-servers {
+  background-color: black;
+}
+
+.app-servers * {
+  color:rgb(172, 247, 147);
+}
+
+button {
+  background-color: rgb(17, 252, 84);
+  margin-top: 7px;
+}
